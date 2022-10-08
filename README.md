@@ -1,11 +1,9 @@
- [![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119bdb76324297c92af12c37ba7fbb44cfb63c687b&rid=giphy.gif&ct=g)
-<h1 align="center">Hi 👋, I'm Borhan uddin amin</h1>
+
+ <h1 align="center">Hi 👋, I'm Borhan uddin amin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b761147ae238a6a45f44fa948d170ecdea7ae1150b7cb&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119bdb76324297c92af12c37ba7fbb44cfb63c687b&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanuddinamin&label=Profile%20views&color=0e75b6&style=flat" alt="borhanuddinamin" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=borhanuddinamin" alt="borhanuddinamin" /></a> </p>
 
 - 🌱 I’m currently learning **C sharp language**
 
