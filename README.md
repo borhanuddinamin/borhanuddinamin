@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi 👋, I'm Borhan uddin amin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">A passionate Asp.net developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76119bdb76324297c92af12c37ba7fbb44cfb63c687b&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanuddinamin&label=Profile%20views&color=0e75b6&style=flat" alt="borhanuddinamin" /> </p>
