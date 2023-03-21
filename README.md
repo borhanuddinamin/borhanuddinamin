@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Asp.net core**
 
-- 💬 Ask me about **C,Js,Html5,Css3,Bootstrap ,Tailwindcss**
+- 💬 Ask me about **C#,Js,Html5,Css3,Bootstrap ,Tailwindcss**
 
 - 📫 How to reach me **borhanuddinamin@gmail.com**
 
