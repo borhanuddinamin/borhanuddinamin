@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borhanuddinamin&label=Profile%20views&color=0e75b6&style=flat" alt="borhanuddinamin" /> </p>
 
-- 🌱 I’m currently learning **C sharp language**
+- 🌱 I’m currently learning **Asp.net core**
 
-- 💬 Ask me about **C,Js,Html5,Css3,Tailwindcss**
+- 💬 Ask me about **C,Js,Html5,Css3,Bootstrap ,Tailwindcss**
 
 - 📫 How to reach me **borhanuddinamin@gmail.com**
 
